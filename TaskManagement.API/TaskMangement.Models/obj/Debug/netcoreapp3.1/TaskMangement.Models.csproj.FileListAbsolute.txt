@@ -1,0 +1,9 @@
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\bin\Debug\netcoreapp3.1\TaskMangement.Models.deps.json
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\bin\Debug\netcoreapp3.1\TaskMangement.Models.dll
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\bin\Debug\netcoreapp3.1\TaskMangement.Models.pdb
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.csprojAssemblyReference.cache
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.AssemblyInfoInputs.cache
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.AssemblyInfo.cs
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.csproj.CoreCompileInputs.cache
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.dll
+D:\.NET Core Test\TaskManagement.API\TaskMangement.Models\obj\Debug\netcoreapp3.1\TaskMangement.Models.pdb
